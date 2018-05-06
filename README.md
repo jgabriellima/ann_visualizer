@@ -21,3 +21,17 @@ $ pip install graphviz
 $ pip install h5py
 
 ```
+
+## Running train
+
+```
+$ python3 train.py
+```
+
+## Visualizing the Artificial Neural Network Model
+
+```
+$ python3 visualizr_model.py
+```
+
+
