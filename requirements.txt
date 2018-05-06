@@ -1,0 +1,5 @@
+tensorflow
+keras
+ann_visualizer
+graphviz
+h5py
