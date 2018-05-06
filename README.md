@@ -1,6 +1,7 @@
 # Visualizing Artificial Neural Networks (ANNs)
-#### with just One Line of Code
+# Medium article: [Visualizando a arquitetura do seu Modelo de Redes Neurais Artificiais](https://medium.com/@joaogabriellima/visualizando-a-arquitetura-do-seu-modelo-de-redes-neurais-artificiais-1f8caeafc3b6)
 
+#### with just One Line of Code
 
 ANN Visualizer is a python library that enables us to visualize an Artificial Neural Network using just a single line of code. It is used to work with Keras and makes use of python’s graphviz library to create a neat and presentable graph of the neural network you’re building.
 
@@ -33,5 +34,4 @@ $ python3 train.py
 ```
 $ python3 visualizr_model.py
 ```
-
 
